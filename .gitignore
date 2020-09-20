@@ -1,4 +1,4 @@
-# Created by .ignore support plugin (hsz.mobi)
+#Created by .ignore support plugin (hsz.mobi)
 ### macOS template
 # General
 .DS_Store
@@ -27,3 +27,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Secret
+config.yaml
